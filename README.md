@@ -11,4 +11,4 @@ Updated: November 14, 2024
 
 **Climate data**
 
-  - [Climate NA](data/climateNA/
+  - [Climate NA](data/climateNA/cmi.md)
