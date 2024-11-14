@@ -6,8 +6,8 @@ Updated: November 14, 2024
 
 **Environmental surrogates**
 
-  - `cmi` - [Climate moisture index (NWB)](docs/cmi.md)
-  - `gpp` - [Gross primary productivity (NWB)](docs/gpp.md)
+  - `cmi` - [Climate moisture index](docs/cmi.md)
+  - `gpp` - [Gross primary productivity](docs/gpp.md)
 
 **Climate data**
 
